@@ -46,11 +46,9 @@ This specific writeup is from ACS, or Applied Cybersecurity Society.
 
 ## Contributors
 Thanks to all the contributors who solved challenges and submitted writeups to this repository:
+* Add your name here when PR'ing*
 
-* [Mobmaker](https://github.com/MobMaker55)
 * [Vynatheya](https://github.com/vgopi1)
-* [Anub1s/UnnaturalFirewall](https://github.com/Akshay-Rohatgi)
-* [randompwner](https://github.com/randompwner)
-* [reteps](https://github.com/reteps)
+
 
 
