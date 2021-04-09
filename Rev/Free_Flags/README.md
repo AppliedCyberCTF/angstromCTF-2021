@@ -79,17 +79,17 @@ undefined4 main(void)
 }
 ```
 
-Luckily for us, it seems all of the checks are happening directly here in the main method!
-Our first piece of input is stored in local_11c by a call to __isoc99_scanf, this is then compared to 0x7a69, in decimal form this is 31337
-Looking further into main we'll see that the next challenge will be to enter 2 numbers(again through __isoc99_scanf) that sum up to 0x476(1142) and multiply to 0x49f59(302937)
-We can easily look up the factor pairs of 302937 online; 
-1, 302937
-3, 100979
-241, 1257
-419, 723
-Out of these factors 419 and 723 sum up to 1142, so that would be the answer to the second question.
-Now the final question is "What animal am I thinking of???", and the answer is compared to "banana"(what a weird animal that is)
-Entering these values should give us the flag!
+Luckily for us, it seems all of the checks are happening directly here in the main method!  
+Our first piece of input is stored in local_11c by a call to __isoc99_scanf, this is then compared to 0x7a69, in decimal form this is 31337  
+Looking further into main we'll see that the next challenge will be to enter 2 numbers(again through __isoc99_scanf) that sum up to 0x476(1142) and multiply to 0x49f59(302937)  
+We can easily look up the factor pairs of 302937 online;  
+1, 302937  
+3, 100979  
+241, 1257  
+419, 723  
+Out of these factors 419 and 723 sum up to 1142, so that would be the answer to the second question.  
+Now the final question is "What animal am I thinking of???", and the answer is compared to "banana"(what a weird animal that is)  
+Entering these values should give us the flag!  
 
 >┌──(kali㉿kali)-[~]  
 >└─$ nc shell.actf.co 21703  
