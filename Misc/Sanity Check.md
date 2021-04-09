@@ -12,7 +12,7 @@
 
 Navigate to the Discord Server and take a look at the banner for #general. There's the flag!
 
-![Screen Shot 2021-04-09 at 7.28.50 AM.png](:/6c3c29119b76497baf6c7609b4b1d2dd)
+![<img width="670" alt="Screen Shot 2021-04-09 at 7 28 50 AM" src="https://user-images.githubusercontent.com/63965300/114182283-12417580-9908-11eb-90c0-7526aff3de4b.png">
 
 ```
 FLAG: actf{always_gonna_give_you_up}
