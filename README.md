@@ -50,5 +50,6 @@ Thanks to all the contributors who solved challenges and submitted writeups to t
 
 * [Vynatheya](https://github.com/vgopi1)
 * [Movement](https://github.com/MovementGH)
+* [Vivian](https://github.com/vivian-dai)
 
 
