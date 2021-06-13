@@ -57,6 +57,6 @@ This specific writeup is from ACS, or Applied Cybersecurity Society.
 </details>
 
 ## Contributors
-Thanks to all the contributors who solved challenges and submitted 
+Thanks to all the contributors who solved challenges and submitted writeups to this repository:
 
 ![contributors](https://contrib.rocks/image?repo=AppliedCyberCTF/angstromCTF-2021)
